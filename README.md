@@ -66,8 +66,11 @@ https://github.com/user-attachments/assets/5e3c6c24-d6f3-4bc2-b803-5a616be097cf
 ## 👥 팀원 소개
 
 -   팀원 1 : 김지율 / 21 / 컴퓨터소프트웨어공학과
+![레제짱](https://github.com/user-attachments/assets/403adfa7-959c-47cc-adca-8c3481b0c4bd)
 -   팀원 2 : 김서하 / 26 / 컴퓨터소프트웨어공학과
+![꼬부기](https://github.com/user-attachments/assets/d200100c-33c0-48d1-9adb-2d46805bcf50)
 -   팀원 3 : 최민섭 / 28 / 컴퓨터소프트웨어공학과
+![버크](https://github.com/user-attachments/assets/13be5494-0c62-4e65-9892-0aea0ff36df3)
 
 ------------------------------------------------------------------------
 
