@@ -1,0 +1,48 @@
+body {
+    background-color: #F0F8FF !important;
+}
+
+.stApp {
+    background-color: #F0F8FF;
+}
+
+.css-1d391kg, .css-1dp58x8 {
+    background-color: #E0FFFF;
+    color: #191970;
+}
+
+:root {
+    --primary-color: #ADD8E6;
+}
+
+h1, h2, h3, h4, h5, h6, p, label, .stMarkdown, .stText {
+    color: #191970;
+}
+
+.stAlert {
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.stAlert.info {
+    background-color: #B0E0E6;
+    border-left: 5px solid #ADD8E6;
+}
+
+.stAlert.success {
+    background-color: #E0FFFF;
+    border-left: 5px solid #191970;
+}
+
+.stButton button {
+    background-color: #ADD8E6;
+    color: white;
+    border-radius: 8px;
+    border: 1px solid #191970;
+}
+
+.stButton button:hover {
+    background-color: #191970;
+    color: white;
+}
